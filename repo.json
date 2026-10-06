@@ -3,6 +3,6 @@
     "description": "DiscoveryFTP CloudStream extension",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/builds/plugins.json"
+      "https://raw.githubusercontent.com/gmostofarajib/gmr_cloudstream/builds/plugins.json"
     ]
 }
